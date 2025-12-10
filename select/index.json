@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "引力",
+  "base_artist": "Lir.E",
+  "createdAt": "2025-12-10T06:01:03.279456Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Inryoku [引力]",
+      "artist": "Perfume",
+      "has_synced": true,
+      "path": "select/01_Inryoku_[引力]_Perfume.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "引力",
+      "artist": "鶴",
+      "has_synced": false,
+      "path": "select/02_引力_鶴.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "引力",
+      "artist": "鸣小明",
+      "has_synced": true,
+      "path": "select/03_引力_鸣小明.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "引力 (影視劇《向風而行》片尾曲暨主題曲)",
+      "artist": "摩登兄弟劉宇寧",
+      "has_synced": true,
+      "path": "select/04_引力_(影視劇《向風而行》片尾曲暨主題曲)_摩登兄弟劉宇寧.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "引力 Energy",
+      "artist": "Crazy Donkey",
+      "has_synced": false,
+      "path": "select/05_引力_Energy_Crazy_Donkey.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "引力",
+      "artist": "Lir.E",
+      "has_synced": false,
+      "path": "select/pl_01_引力_Lir.E.txt"
+    }
+  ]
+}
